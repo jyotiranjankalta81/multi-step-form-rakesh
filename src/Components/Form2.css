@@ -1,0 +1,7 @@
+.gender {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    align-items: center;
+}
